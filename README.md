@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - [Proyecto 2](https://github.com/usuario123/proyecto2): Descripción breve del proyecto.
 
 ## Contacto
-- 🌐 [Portafolio](https://adorable-peony-1cd47c.netlify.app)
--  [LinkedIn](https://www.linkedin.com/in/juan-manuel-ramos-lencina-43a03b222)
+- 🌐 [Porfolio](https://adorable-peony-1cd47c.netlify.app)
+- 📧 [LinkedIn](https://www.linkedin.com/in/juan-manuel-ramos-lencina-43a03b222)
 - 📧 [juanmanuelramoslencina@gmail.com](mailto:juanmanuelramoslencina@gmail.com)
