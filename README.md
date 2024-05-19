@@ -3,7 +3,7 @@
 
 Soy Juan Manuel, Desde que descubrí mi pasión por la tecnología, me he sumergido en un viaje de aprendizaje constante y crecimiento profesional. Con una formación en el desarrollo frontend y backend
 
-Here are some ideas to get you started:
+
 
 ## Tecnologías
 
