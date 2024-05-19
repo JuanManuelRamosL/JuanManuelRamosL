@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ## Conectemos
 - [LinkedIn](https://www.linkedin.com/in/tuperfil/)
-- [Twitter](https://twitter.com/tuusuario)
+- [porfolio](https://adorable-peony-1cd47c.netlify.app)
