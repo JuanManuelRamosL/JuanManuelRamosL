@@ -19,9 +19,7 @@ Soy Juan Manuel, Desde que descubrí mi pasión por la tecnología, me he sumerg
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 
-## Proyectos Destacados
-- [Proyecto 1](https://github.com/usuario123/proyecto1): Descripción breve del proyecto.
-- [Proyecto 2](https://github.com/usuario123/proyecto2): Descripción breve del proyecto.
+
 
 ## Contacto
 - 🌐 [Porfolio](https://adorable-peony-1cd47c.netlify.app)
