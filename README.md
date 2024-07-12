@@ -22,6 +22,6 @@ Soy Juan Manuel, Desde que descubrí mi pasión por la tecnología, me he sumerg
 
 
 ## Contacto
-- 🌐 [Porfolio](https://adorable-peony-1cd47c.netlify.app)
+- 🌐 [Porfolio](https://porfolio-juanmanuel-ramos.netlify.app/)
 - 📧 [LinkedIn](https://www.linkedin.com/in/juan-manuel-ramos-lencina-43a03b222)
 - 📧 [juanmanuelramoslencina@gmail.com](mailto:juanmanuelramoslencina@gmail.com)
