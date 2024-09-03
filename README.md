@@ -10,7 +10,7 @@ Soy Juan Manuel, Desde que descubrí mi pasión por la tecnología, me he sumerg
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=FFD43B)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=306998)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
