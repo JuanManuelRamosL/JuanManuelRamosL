@@ -15,7 +15,7 @@ Soy Juan Manuel, Desde que descubrí mi pasión por la tecnología, me he sumerg
     <img src="https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp" style="height: 40px; border-radius: 8px;" onmouseover="this.style.opacity='0.7';" onmouseout="this.style.opacity='1';"/>
   </a>
   <a href="https://www.python.org/" target="_blank" style="text-decoration:none;">
-    <img src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-1713885634631.webp" style="height: 40px; border-radius: 8px;" onmouseover="this.style.opacity='0.7';" onmouseout="this.style.opacity='1';"/>
+    <img src="https://static-00.iconduck.com/assets.00/python-icon-2048x2048-z7czo6jm.png" style="height: 40px; border-radius: 8px;" onmouseover="this.style.opacity='0.7';" onmouseout="this.style.opacity='1';"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" style="height: 40px; border-radius: 8px;" onmouseover="this.style.opacity='0.7';" onmouseout="this.style.opacity='1';"/>
