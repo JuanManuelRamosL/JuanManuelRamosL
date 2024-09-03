@@ -12,7 +12,7 @@ Soy Juan Manuel, Desde que descubrí mi pasión por la tecnología, me he sumerg
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=FFD43B)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
 ![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
