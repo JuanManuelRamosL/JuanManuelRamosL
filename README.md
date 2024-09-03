@@ -15,7 +15,7 @@ Soy Juan Manuel, Desde que descubrí mi pasión por la tecnología, me he sumerg
     <img src="https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp" style="height: 40px; border-radius: 8px;" onmouseover="this.style.opacity='0.7';" onmouseout="this.style.opacity='1';"/>
   </a>
   <a href="https://www.python.org/" target="_blank" style="text-decoration:none;">
-    <img src="https://w7.pngwing.com/pngs/447/294/png-transparent-python-javascript-logo-clojure-python-logo-blue-angle-text.png" style="height: 40px; border-radius: 8px;" onmouseover="this.style.opacity='0.7';" onmouseout="this.style.opacity='1';"/>
+    <img src="https://i3.wp.com/banner2.cleanpng.com/20180402/ioq/kisspng-python-logo-clojure-javascript-9-5ac25c2686ca38.9179638515226870145521.jpg?ssl=1" style="height: 40px; border-radius: 8px;" onmouseover="this.style.opacity='0.7';" onmouseout="this.style.opacity='1';"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" style="height: 40px; border-radius: 8px;" onmouseover="this.style.opacity='0.7';" onmouseout="this.style.opacity='1';"/>
