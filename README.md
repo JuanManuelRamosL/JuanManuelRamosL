@@ -61,8 +61,11 @@ Soy Juan Manuel, Desde que descubrí mi pasión por la tecnología, me he sumerg
 
 
 ## Contacto
-- 🌐 [Porfolio](https://porfolio-juanmanuel-ramos.netlify.app/)
-- 📧 [LinkedIn](https://www.linkedin.com/in/juan-manuel-ramos-lencina-43a03b222)
-- 📧 [juanmanuelramoslencina@gmail.com](mailto:juanmanuelramoslencina@gmail.com)
+
+<a href="https://porfolio-juanmanuel-ramos.netlify.app/" target="_blank" style="display:inline-block;text-decoration:none;color:white;background-color:#4CAF50;padding:10px 20px;border-radius:5px;font-family:sans-serif;">🌐 Porfolio</a>
+
+<a href="https://www.linkedin.com/in/juan-manuel-ramos-lencina-43a03b222" target="_blank" style="display:inline-block;text-decoration:none;color:white;background-color:#0077B5;padding:10px 20px;border-radius:5px;font-family:sans-serif;margin-left:10px;">📧 LinkedIn</a>
+
+<a href="mailto:juanmanuelramoslencina@gmail.com" style="display:inline-block;text-decoration:none;color:white;background-color:#D14836;padding:10px 20px;border-radius:5px;font-family:sans-serif;margin-left:10px;">📧 Email</a>
 
 
